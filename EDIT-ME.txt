@@ -1,0 +1,14 @@
+LOS TAMALEROS — QUICK EDIT NOTES
+
+This is the original design you selected, with only the requested pricing clarity and story photos added.
+
+Common edits inside index.html:
+• Regular topped tamale display price: search for $5.50
+• Pickup bundle math: search for packs=[[30,129],[20,89],[10,47],[5,25],[1,5.5]]
+• Plain tamale order prices: search for plainTamales=[
+• Catering prices/discounts: search for cateringCalc
+• Location: search for West 145th
+• WhatsApp: search for PHONE='19177429349'
+• Social handles: search for lostamalerosnyc
+
+Changing index.html later does not affect your .com. Redeploy the updated file and the same domain remains connected.
